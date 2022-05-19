@@ -78,4 +78,3 @@ def add_method_to_instance(klass: object):
         return func
     return decorator
 
-#
